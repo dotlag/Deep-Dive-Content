@@ -1,8 +1,8 @@
 ```yaml
 participants:
-	- Mercenary NHP Lucid Nonsense
-	- SSC Rep NHP
-	- SSC Ansible Relay
+  - Mercenary NHP Lucid Nonsense
+  - SSC Rep NHP
+  - SSC Ansible Relay
 ```
 
 
