@@ -57,4 +57,4 @@ participants:
 
 +++ Not *that* good.
 
-++ Good enough to take an excuse to use the sub.
+++ Good enough to be an excuse to use the sub.
