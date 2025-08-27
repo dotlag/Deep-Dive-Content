@@ -13,6 +13,7 @@ participants:
 ++ Oh, pretty well.  Just brought on some new lancers and we've been doing some training and teambuilding.  How're things with the main branch?
 
 `Pretty busy.  Been handling a bunch of projects in the Arm.`
+
 `We've got some interesting new tech that should be coming soon.`
 
 ++ Color me intrigued, *especially* since you're sending a real-time instance.
