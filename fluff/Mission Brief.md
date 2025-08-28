@@ -9,17 +9,16 @@ An SSC research vessel[^1] has gone dark on [[Ocean Moon]], after an uptick in p
 Find and retake the SSC research vessel, and preferably rescue the crew as well.  Apprehend[^3] the pirates who have taken over the facility, and provide security to the facility while an SSC security team transits to the facility.[^5]
 
 # Execution
-*Lucid Nonsense* will provide orbital sensors and overwatch while the *Craven* will be deployed planetside.  *Craven* will have a full complement of 10 lancers operating in fireteams run by company veterans but each containing several recruits.
+*Lucid Nonsense* will provide orbital sensors and overwatch while the *Craven* will be deployed planetside.  *[[Craven]]* will have a full complement of 10 lancers operating in fireteams run by company veterans but each containing several recruits.
 
 # Timeline
 
-|           | Timeline                                                                                                                            |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+|           | Timeline                                                                                                                          |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | t-14 days | Depart for [[Ocean Moon]] via blinkgate                                                                                           |
 | t-10 days | Arrive in-system and begin transit to [[Ocean Moon]]                                                                              |
 | t-1 day   | Arrive in-orbit of [[Ocean Moon]] and begin sweep for signs of <br>  of SSC vessel.  Prep *Craven* for planetside operations.[^4] |
-| t-0 days  | Begin planetside operations while *Lucid Nonsense* remains in orbital overwatch.                                                    |
-|           |                                                                                                                                     |
+| t-0 days  | Begin planetside operations while *Lucid Nonsense* remains in orbital overwatch.                                                  |
 # Tactical Assessment
 The pirates that have been observed in-system are a fairly light outfit.  They operate a pair of gunships and one light cruiser.  Individually, none of these are a match for *Lucid*, but together they could be a problem.  Of the three, only the cruiser can keep pace with *Lucid* for long enough to be a threat, but *Lucid* is more heavily armed and armored.  These ships berth at a facility built into one of the smaller moons around this gas giant.  During our operation, the facility will remain occluded by the gas giant.
 
@@ -35,4 +34,4 @@ We will be outnumbered in terms of both manpower and hardware, so we are going t
 
 [^4]: We should be running combat drills on the way there.  I don't want our new lancers to be going in without being thoroughly tested. - KT
 
-[^5]: This makes me a little anxious.  I'm worried what we do if the pirates have more mettle than sense. - MT
+[^5]: This makes me a little anxious.  I'm worried what happens if the pirates have more mettle than sense. - MT

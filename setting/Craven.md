@@ -1,0 +1,1 @@
+A long-range submersible mech carrier operated by the mercenary company run by the NHP [[NHP Lucid Nonsense|Lucid Nonsense]].
