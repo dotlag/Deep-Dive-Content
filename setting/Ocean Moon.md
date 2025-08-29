@@ -1,5 +1,0 @@
----
-aliases:
-  - Planet
-  - Ocean Planet
----

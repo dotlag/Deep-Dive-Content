@@ -3,7 +3,7 @@ state: draft, pending officer vote
 ```
 
 # Situation
-An SSC research vessel[^1] has gone dark on [[Ocean Moon]], after an uptick in pirate activity.  Their last communication was an encrypted data packet, including a snapshot of one of the research NHPs.  The vessel appears to have been overrun by pirates and commandeered, and its location is currently unknown.[^2]
+An SSC research vessel[^1] has gone dark on [[8947 Noctuae II - 3]], after an uptick in pirate activity.  Their last communication was an encrypted data packet, including a snapshot of one of the research NHPs.  The vessel appears to have been overrun by pirates and commandeered, and its location is currently unknown.[^2]
 
 # Mission
 Find and retake the SSC research vessel, and preferably rescue the crew as well.  Apprehend[^3] the pirates who have taken over the facility, and provide security to the facility while an SSC security team transits to the facility.[^5]
@@ -15,9 +15,9 @@ Find and retake the SSC research vessel, and preferably rescue the crew as well.
 
 |           | Timeline                                                                                                                          |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| t-14 days | Depart for [[Ocean Moon]] via blinkgate                                                                                           |
-| t-10 days | Arrive in-system and begin transit to [[Ocean Moon]]                                                                              |
-| t-1 day   | Arrive in-orbit of [[Ocean Moon]] and begin sweep for signs of <br>  of SSC vessel.  Prep *Craven* for planetside operations.[^4] |
+| t-14 days | Depart for [[8947 Noctuae II - 3]] via blinkgate                                                                                           |
+| t-10 days | Arrive in-system and begin transit to [[8947 Noctuae II - 3]]                                                                              |
+| t-1 day   | Arrive in-orbit of [[8947 Noctuae II - 3]] and begin sweep for signs of <br>  of SSC vessel.  Prep *Craven* for planetside operations.[^4] |
 | t-0 days  | Begin planetside operations while *Lucid Nonsense* remains in orbital overwatch.                                                  |
 # Tactical Assessment
 The pirates that have been observed in-system are a fairly light outfit.  They operate a pair of gunships and one light cruiser.  Individually, none of these are a match for *Lucid*, but together they could be a problem.  Of the three, only the cruiser can keep pace with *Lucid* for long enough to be a threat, but *Lucid* is more heavily armed and armored.  These ships berth at a facility built into one of the smaller moons around this gas giant.  During our operation, the facility will remain occluded by the gas giant.

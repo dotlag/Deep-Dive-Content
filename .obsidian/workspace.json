@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fluff/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fluff/Mission Brief.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mission Brief"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -171,15 +171,18 @@
   },
   "active": "bd73c5ae98062b22",
   "lastOpenFiles": [
-    "setting/index.md",
-    "setting/Ocean Moon.md",
+    "setting/Red Flag Fleet.md",
     "setting/NHP Lucid Nonsense.md",
-    "README.md",
-    "Fliuff.md",
-    "fluff/index.md",
-    "fluff/Contract Negotiations.md",
-    "fluff/Mission Brief.md",
     "setting/Craven.md",
+    "setting/8947 Noctuae II - 3.md",
+    "fluff/Mission Brief v3.md",
+    "fluff/Mission Brief.md",
+    "fluff/Contract Negotiations.md",
+    "README.md",
+    "Untitled.canvas",
+    "setting/index.md",
+    "fluff/index.md",
+    "Fliuff.md",
     "setting"
   ]
 }
