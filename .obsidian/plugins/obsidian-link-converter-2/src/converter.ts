@@ -258,7 +258,7 @@ const getFileLinkInFormat = (file: TFile, sourceFile: TFile, plugin: LinkConvert
         }
     }
     if (fileLink.endsWith('.md')) fileLink = fileLink.replace('.md', '');
-    return fileLink;
+    return '/' + fileLink;
 };
 
 /* -------------------- HELPERS -------------------- */
@@ -318,7 +318,7 @@ const createLink = (dest: LinkType, originalLink: string, altOrBlockRef: string,
  * @returns
  */
 function customEncodeURI(uri: string): string {
-    return uri.replace(/[\\\x00\x08\x0B\x0C\x0E-\x1F]/g, (urlPart) => encodeURIComponent(urlPart));
+    return uri.replace(/[\\\x00\x08\x0B\x0C\x0E-\x1F ]/g, (urlPart) => encodeURIComponent(urlPart));
 }
 
 /**

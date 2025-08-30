@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dbd419d9b5e7cdd",
+        "id": "f03c004334ba1572",
         "type": "tabs",
         "children": [
           {
-            "id": "753256dff0292b35",
+            "id": "cf112d84530fee2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "%20",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,12 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "753256dff0292b35",
+  "active": "cf112d84530fee2c",
   "lastOpenFiles": [
     "fluff/Mission Brief.md",
-    "setting/Craven.md",
+    "fluff/Mission.md",
     "README.md",
+    "Untitled.base",
     "fluff/Mission Brief v3.md",
+    "setting/Craven.md",
     "setting/8947 Noctuae II - 3.md",
     "fluff/Contract Negotiations.md",
     "setting/Red Flag Fleet.md",
