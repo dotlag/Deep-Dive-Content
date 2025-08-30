@@ -28,6 +28,6 @@ jobs:
       - name: Regex Replace
         uses: mingjun97/file-regex-replace
         with:
-          regex: "(]()(\w)"
+          regex: "(]\()(\w)"
           replacement: "$1/Deep-Dive-Content$2"
           exclude: "*.json"
