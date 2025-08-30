@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-link-converter-2",
+    "name": "Link Converter 2",
+    "version": "0.1.6",
+    "minAppVersion": "0.9.12",
+    "description": "Scan all your links in the vault and convert them to your desired format.",
+    "author": "Ozan Tellioglu",
+    "authorUrl": "https://ozan.pl",
+    "isDesktopOnly": false
+}

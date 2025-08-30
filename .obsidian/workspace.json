@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "%20",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,13 +173,13 @@
   "active": "753256dff0292b35",
   "lastOpenFiles": [
     "fluff/Mission Brief.md",
-    "fluff/Contract Negotiations.md",
+    "setting/Craven.md",
     "README.md",
     "fluff/Mission Brief v3.md",
     "setting/8947 Noctuae II - 3.md",
+    "fluff/Contract Negotiations.md",
     "setting/Red Flag Fleet.md",
     "setting/NHP Lucid Nonsense.md",
-    "setting/Craven.md",
     "Untitled.canvas",
     "setting/index.md",
     "fluff/index.md",
