@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fluff/Mission Brief v3.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission Brief v3"
+              "title": "README"
             }
           }
         ]
@@ -169,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf112d84530fee2c",
+  "active": "9ef26f8bcf984e45",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "fluff/Mission Brief v3.md",
     "fluff/Contract Negotiations.md",
     "fluff/Mission Brief.md",
-    "fluff/Mission Brief v3.md",
     "README.md",
     "setting/Craven.md",
     "setting/8947 Noctuae II - 3.md",
